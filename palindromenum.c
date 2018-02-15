@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int main()
+int pale()
 {
    int n, reverse = 0, temp;
  
