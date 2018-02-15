@@ -4,7 +4,5 @@
 main()
 {
 big3();
-sort();
-rev();
 fact();
 }
