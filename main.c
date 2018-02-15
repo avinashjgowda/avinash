@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-main.c()
+main()
 {
 big3();
 sort();
