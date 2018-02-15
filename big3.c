@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void main()
+void big3()
 {
     int num1, num2, num3;
  
