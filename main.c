@@ -5,7 +5,6 @@ main()
 {
 big3();
 sort();
-pale();
 rev();
 fact();
 }
